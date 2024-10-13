@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DF29&center=true&random=false&width=350&lines=Because+I'm+fascinated+with+programming" />
+  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1456AE&width=435&lines=Building+the+future+with+code.)](https://git.io/typing-svg)" />
 </p>
 
 <h2 align="center">Sobre mí</h2>
