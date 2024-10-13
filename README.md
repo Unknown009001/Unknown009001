@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy AldebaranDev 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" width="400" />
+  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" width="900" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1456AE&width=435&lines=Turning+logic+into+real+world." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1456AE&width=435&lines=--Turning+logic+into+real+world.--" />
 </p>
 
 <h2 align="center">Sobre mí</h2>
@@ -15,7 +15,9 @@
 
 <br> <br>
 <div align="center">
-   <samp><b> Tecnologías que uso </b></samp>
+ <span style="font-family: 'Courier New', monospace; font-size: 18px; color: #FFFFFF;">
+     <b>Tecnologías que uso</b>
+   </span>
    <div align="center">
      <br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
@@ -27,7 +29,9 @@
 <br>
 
 <div align="center">
-   <samp><b> Estoy aprendiendo </b></samp>
+    <span style="font-family: 'Courier New', monospace; font-size: 18px; color: #FFFFFF;">
+     <b>Estoy aprendiendo</b>
+   </span>
    <div align="center">
      <br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">   
@@ -38,7 +42,9 @@
 <br>
 
 <div align="center">
-   <samp><b> Otros </b></samp>
+    <span style="font-family: 'Courier New', monospace; font-size: 18px; color: #FFFFFF;">
+     <b>Otros</b>
+   </span>
    <div align="center">
      <br>
        <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
