@@ -18,10 +18,9 @@
    <samp><b> Tecnologías que uso </b></samp>
    <div align="center">
      <br>
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java.svg" width="48" title="Java">
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MariaDB.svg" width="48" title="MariaDB">   
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="48" title="Java">
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" title="Docker">
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vscode-Dark.svg" width="48" title="VSCode">
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="VSCode">
    </div> 
 </div>
 
@@ -31,9 +30,9 @@
    <samp><b> Estoy aprendiendo </b></samp>
    <div align="center">
      <br>
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQL.svg" width="48" title="SQL">
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring.svg" width="48"  title="Spring">   
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate.svg" width="48" title="Hibernate">
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">   
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">   
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="48" title="Hibernate">
    </div> 
 </div>
 
