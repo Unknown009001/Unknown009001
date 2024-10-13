@@ -12,9 +12,9 @@
 <p align="center">
   Java student ☕ | Desarrollador apasionado por la tecnología y el código 💻 | Explorador del universo digital
 </p>
+
 <br> <br>
 <div align="center">
-
    <samp><b> Tecnologías que uso </b></samp>
    <div align="center">
      <br>
@@ -45,7 +45,6 @@
      <br>
        <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
       <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999">
-
    </div> 
 </div>
 
