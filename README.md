@@ -48,8 +48,8 @@
    </span>
    <div align="center">
      <br>
-       <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
-      <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999">
+       <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/518/518713.png">
+      <img width="48" style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://blog.artegrafico.net/wp-content/uploads/2021/10/shell-command-line.png">
    </div> 
 </div>
 
