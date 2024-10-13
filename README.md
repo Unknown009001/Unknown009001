@@ -31,7 +31,6 @@
    <div align="center">
      <br>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" title="MySQL">   
-     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">   
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" width="48" title="Hibernate">
    </div> 
 </div>
