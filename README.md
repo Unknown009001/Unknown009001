@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1456AE&width=435&lines=Building+the+future+with+code." />
+  <img src="https://readme-typing-svg.demolab.com/demo/?color=1456AE&lines=Coding+the+future%2C+one+line+at+a+time" />
 </p>
 
 <h2 align="center">Sobre mí</h2>
