@@ -10,7 +10,7 @@
 
 <h2 align="center">Sobre mí</h2>
 <p align="center">
-  Java student ☕ | Desarrollador apasionado por la tecnología y el código 💻 | Explorador del universo digital
+  Java student ☕ | Developer passionate about technology and code 💻 | digital universe explorer
 </p>
 
 <br> <br>
