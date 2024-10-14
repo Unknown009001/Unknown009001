@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy AldebaranDev 👋</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" width="900" />
+  <img src="https://i.pinimg.com/originals/04/a1/6c/04a16c392c31e5108ce6f9b66558e25d.gif" width="900" />
 </p>
 
 <p align="center">
